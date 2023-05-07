@@ -15,7 +15,7 @@ I'm a passionate computer science student based in South Africa with a keen inte
 🚀 Emerging technologies and their potential impact on society
 
 # How to reach me
-📫 You can reach me by 
+📫 You can reach me by: 
 email : nabeelvan@gmail.com
 LinkedIn : https://www.linkedin.com/in/nabeel-van-niekerk-216353248/
 
