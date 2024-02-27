@@ -14,7 +14,7 @@ I believe in the power of technology to transform lives and solve complex proble
 # What I'm interested in
 🤖 Artificial intelligence and machine learning
 
-🔒 Cybersecurity and privacy
+🔒 Cybersecurity and Big Data
 
 🚀 Emerging technologies and their potential impact on society
 
@@ -25,6 +25,6 @@ email : nabeelvan@gmail.com
 
 LinkedIn : https://www.linkedin.com/in/nabeel-van-niekerk-216353248/
 
-💬 I'm always open to connecting with like-minded individuals, so feel free to say hello!
+💬 I'm always open to connecting with like-minded individuals, so feel free connect with me!
 
 Thanks for stopping by – I can't wait to see what the future holds for technology and how we can use it to make a difference in the world!
